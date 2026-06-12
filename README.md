@@ -1,5 +1,5 @@
 # 💫 About Me:
-im learning core java and advance java and wants to be an software developer
+I'm learning core java and advance java Concepts and wants to be an software developer 
 
 
 ## 🌐 Socials:
